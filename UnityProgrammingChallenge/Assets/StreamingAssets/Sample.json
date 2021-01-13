@@ -1,0 +1,17 @@
+{
+"title":"teamMembers",
+"columnHeader":
+[
+"ID",
+"Role",
+"Nickname",
+"Name"
+],
+	"Data":
+[
+	{"id":"001","name":"juan","role":"illustrator","nickname":"joseju"},
+	{"id":"002","name":"maria","role":"programmer","nickname":"darkin"},
+	{"id":"003","name":"david","role":"designer","nickname":"lofi"},
+	{"id":"004","name":"mario","role":"painter","nickname":"sona"}
+]
+}
